@@ -5,4 +5,3 @@ venv/
 __pycache__/
 *.py[cod]
 
-# If you have additional files/folders to ignore, list them here.
